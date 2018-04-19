@@ -1,0 +1,8 @@
+D:\NSBM\year 1\semester 2\C#\Practicals\if2\if2\bin\Debug\if2.exe.config
+D:\NSBM\year 1\semester 2\C#\Practicals\if2\if2\bin\Debug\if2.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\if2\if2\bin\Debug\if2.pdb
+D:\NSBM\year 1\semester 2\C#\Practicals\if2\if2\obj\Debug\if2.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\if2\if2\obj\Debug\if2.pdb
+C:\Users\Black_Hat\Desktop\Projects\C#\if2\if2\bin\Debug\if2.exe.config
+C:\Users\Black_Hat\Desktop\Projects\C#\if2\if2\obj\Debug\if2.exe
+C:\Users\Black_Hat\Desktop\Projects\C#\if2\if2\obj\Debug\if2.pdb

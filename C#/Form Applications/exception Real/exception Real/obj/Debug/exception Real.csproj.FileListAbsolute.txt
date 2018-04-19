@@ -1,0 +1,9 @@
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\exception Real\exception Real\bin\Debug\exception Real.exe.config
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\exception Real\exception Real\bin\Debug\exception Real.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\exception Real\exception Real\bin\Debug\exception Real.pdb
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\exception Real\exception Real\obj\Debug\exception Real.csprojResolveAssemblyReference.cache
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\exception Real\exception Real\obj\Debug\exception_Real.Form1.resources
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\exception Real\exception Real\obj\Debug\exception_Real.Properties.Resources.resources
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\exception Real\exception Real\obj\Debug\exception Real.csproj.GenerateResource.Cache
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\exception Real\exception Real\obj\Debug\exception Real.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\exception Real\exception Real\obj\Debug\exception Real.pdb

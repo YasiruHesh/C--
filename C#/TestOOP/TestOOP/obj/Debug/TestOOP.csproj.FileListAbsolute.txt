@@ -1,0 +1,9 @@
+D:\NSBM\year 1\semester 2\C#\Practicals\TestOOP\TestOOP\bin\Debug\TestOOP.exe.config
+D:\NSBM\year 1\semester 2\C#\Practicals\TestOOP\TestOOP\obj\Debug\TestOOP.csprojResolveAssemblyReference.cache
+D:\NSBM\year 1\semester 2\C#\Practicals\TestOOP\TestOOP\bin\Debug\TestOOP.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\TestOOP\TestOOP\bin\Debug\TestOOP.pdb
+D:\NSBM\year 1\semester 2\C#\Practicals\TestOOP\TestOOP\obj\Debug\TestOOP.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\TestOOP\TestOOP\obj\Debug\TestOOP.pdb
+C:\Users\Black_Hat\Desktop\Projects\C#\TestOOP\TestOOP\bin\Debug\TestOOP.exe.config
+C:\Users\Black_Hat\Desktop\Projects\C#\TestOOP\TestOOP\obj\Debug\TestOOP.exe
+C:\Users\Black_Hat\Desktop\Projects\C#\TestOOP\TestOOP\obj\Debug\TestOOP.pdb

@@ -1,0 +1,8 @@
+D:\NSBM\year 1\semester 2\C#\Practicals\forloop1\forloop1\bin\Debug\forloop1.exe.config
+D:\NSBM\year 1\semester 2\C#\Practicals\forloop1\forloop1\bin\Debug\forloop1.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\forloop1\forloop1\bin\Debug\forloop1.pdb
+D:\NSBM\year 1\semester 2\C#\Practicals\forloop1\forloop1\obj\Debug\forloop1.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\forloop1\forloop1\obj\Debug\forloop1.pdb
+C:\Users\Black_Hat\Desktop\Projects\C#\forloop1\forloop1\bin\Debug\forloop1.exe.config
+C:\Users\Black_Hat\Desktop\Projects\C#\forloop1\forloop1\obj\Debug\forloop1.exe
+C:\Users\Black_Hat\Desktop\Projects\C#\forloop1\forloop1\obj\Debug\forloop1.pdb

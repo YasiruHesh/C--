@@ -1,0 +1,6 @@
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\array2\array2\bin\Debug\array2.exe.config
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\array2\array2\obj\Debug\array2.csprojResolveAssemblyReference.cache
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\array2\array2\obj\Debug\array2.Form1.resources
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\array2\array2\obj\Debug\array2.Properties.Resources.resources
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\array2\array2\obj\Debug\array2.csproj.GenerateResource.Cache
+C:\Users\Black_Hat\Desktop\Projects\C#\Form Applications\array2\array2\bin\Debug\array2.exe.config

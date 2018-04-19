@@ -1,0 +1,5 @@
+D:\NSBM\year 1\semester 2\C#\Practicals\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\NSBM\year 1\semester 2\C#\Practicals\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\NSBM\year 1\semester 2\C#\Practicals\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

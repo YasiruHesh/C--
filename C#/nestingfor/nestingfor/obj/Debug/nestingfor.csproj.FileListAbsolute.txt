@@ -1,0 +1,8 @@
+D:\NSBM\year 1\semester 2\C#\Practicals\nestingfor\nestingfor\bin\Debug\nestingfor.exe.config
+D:\NSBM\year 1\semester 2\C#\Practicals\nestingfor\nestingfor\bin\Debug\nestingfor.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\nestingfor\nestingfor\bin\Debug\nestingfor.pdb
+D:\NSBM\year 1\semester 2\C#\Practicals\nestingfor\nestingfor\obj\Debug\nestingfor.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\nestingfor\nestingfor\obj\Debug\nestingfor.pdb
+C:\Users\Black_Hat\Desktop\Projects\C#\nestingfor\nestingfor\bin\Debug\nestingfor.exe.config
+C:\Users\Black_Hat\Desktop\Projects\C#\nestingfor\nestingfor\obj\Debug\nestingfor.exe
+C:\Users\Black_Hat\Desktop\Projects\C#\nestingfor\nestingfor\obj\Debug\nestingfor.pdb

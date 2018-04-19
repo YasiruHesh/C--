@@ -1,0 +1,8 @@
+D:\NSBM\year 1\semester 2\C#\Practicals\whileloop1\whileloop1\bin\Debug\whileloop1.exe.config
+D:\NSBM\year 1\semester 2\C#\Practicals\whileloop1\whileloop1\bin\Debug\whileloop1.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\whileloop1\whileloop1\bin\Debug\whileloop1.pdb
+D:\NSBM\year 1\semester 2\C#\Practicals\whileloop1\whileloop1\obj\Debug\whileloop1.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\whileloop1\whileloop1\obj\Debug\whileloop1.pdb
+C:\Users\Black_Hat\Desktop\Projects\C#\whileloop1\whileloop1\bin\Debug\whileloop1.exe.config
+C:\Users\Black_Hat\Desktop\Projects\C#\whileloop1\whileloop1\obj\Debug\whileloop1.exe
+C:\Users\Black_Hat\Desktop\Projects\C#\whileloop1\whileloop1\obj\Debug\whileloop1.pdb

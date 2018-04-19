@@ -1,0 +1,3 @@
+D:\NSBM\year 1\semester 2\C#\Practicals\oop1\oop1\bin\Debug\oop1.exe.config
+D:\NSBM\year 1\semester 2\C#\Practicals\oop1\oop1\obj\Debug\oop1.csprojResolveAssemblyReference.cache
+C:\Users\Black_Hat\Desktop\Projects\C#\oop1\oop1\bin\Debug\oop1.exe.config

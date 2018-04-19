@@ -1,0 +1,9 @@
+D:\NSBM\year 1\semester 2\C#\Practicals\decitiontrees\decitiontrees\bin\Debug\decitiontrees.exe.config
+D:\NSBM\year 1\semester 2\C#\Practicals\decitiontrees\decitiontrees\bin\Debug\decitiontrees.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\decitiontrees\decitiontrees\bin\Debug\decitiontrees.pdb
+D:\NSBM\year 1\semester 2\C#\Practicals\decitiontrees\decitiontrees\obj\Debug\decitiontrees.csprojResolveAssemblyReference.cache
+D:\NSBM\year 1\semester 2\C#\Practicals\decitiontrees\decitiontrees\obj\Debug\decitiontrees.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\decitiontrees\decitiontrees\obj\Debug\decitiontrees.pdb
+C:\Users\Black_Hat\Desktop\Projects\C#\decitiontrees\decitiontrees\bin\Debug\decitiontrees.exe.config
+C:\Users\Black_Hat\Desktop\Projects\C#\decitiontrees\decitiontrees\obj\Debug\decitiontrees.exe
+C:\Users\Black_Hat\Desktop\Projects\C#\decitiontrees\decitiontrees\obj\Debug\decitiontrees.pdb

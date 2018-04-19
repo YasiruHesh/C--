@@ -1,0 +1,2 @@
+D:\NSBM\year 1\semester 2\C#\Practicals\if3\if3\bin\Debug\if3.exe.config
+C:\Users\Black_Hat\Desktop\Projects\C#\if3\if3\bin\Debug\if3.exe.config

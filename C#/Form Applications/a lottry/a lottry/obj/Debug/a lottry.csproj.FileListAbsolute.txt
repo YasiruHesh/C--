@@ -1,0 +1,18 @@
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\a lottry\a lottry\bin\Debug\a lottry.exe.config
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\a lottry\a lottry\bin\Debug\a lottry.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\a lottry\a lottry\bin\Debug\a lottry.pdb
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\a lottry\a lottry\obj\Debug\a lottry.csprojResolveAssemblyReference.cache
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\a lottry\a lottry\obj\Debug\a_lottry.Form1.resources
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\a lottry\a lottry\obj\Debug\a_lottry.Properties.Resources.resources
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\a lottry\a lottry\obj\Debug\a lottry.csproj.GenerateResource.Cache
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\a lottry\a lottry\obj\Debug\a lottry.exe
+D:\NSBM\year 1\semester 2\C#\Practicals\Form Applications\a lottry\a lottry\obj\Debug\a lottry.pdb
+C:\Users\Black_Hat\Desktop\Projects\C#\Form Applications\a lottry\a lottry\bin\Debug\a lottry.exe.config
+C:\Users\Black_Hat\Desktop\Projects\C#\Form Applications\a lottry\a lottry\obj\Debug\a lottry.exe
+C:\Users\Black_Hat\Desktop\Projects\C#\Form Applications\a lottry\a lottry\obj\Debug\a lottry.pdb
+C:\Users\Black_Hat\Desktop\Projects\C#\Form Applications\a lottry\a lottry\bin\Debug\a lottry.exe
+C:\Users\Black_Hat\Desktop\Projects\C#\Form Applications\a lottry\a lottry\bin\Debug\a lottry.pdb
+C:\Users\Black_Hat\Desktop\Projects\C#\Form Applications\a lottry\a lottry\obj\Debug\a lottry.csprojResolveAssemblyReference.cache
+C:\Users\Black_Hat\Desktop\Projects\C#\Form Applications\a lottry\a lottry\obj\Debug\a_lottry.Form1.resources
+C:\Users\Black_Hat\Desktop\Projects\C#\Form Applications\a lottry\a lottry\obj\Debug\a_lottry.Properties.Resources.resources
+C:\Users\Black_Hat\Desktop\Projects\C#\Form Applications\a lottry\a lottry\obj\Debug\a lottry.csproj.GenerateResource.Cache
